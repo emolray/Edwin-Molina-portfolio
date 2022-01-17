@@ -1,3 +1,3 @@
 # Edwin-Molina-portfolio
-Analisis estadístico de dataset 
-Repositorio de practicas de analisis y manejo de datos en Python. 
+## Repositorio de practicas de analisis y manejo de datos en Python. 
+## Presentación de datos en Power BI y Excel
